@@ -1,0 +1,18 @@
+.item-container {
+  display: flex;
+  flex-direction: row;
+  margin: 30px;
+}
+
+.logo-image {
+  height: 60px;
+  width: 60px;
+}
+
+.text {
+  color: #1e293b;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  padding: 10px;
+}

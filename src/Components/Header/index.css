@@ -1,0 +1,13 @@
+.nav {
+  width: 100vw;
+  display: flex;
+  background-color: #e8e8e8;
+  height: 14vh;
+}
+
+.header-image {
+  height: 70px;
+  width: 200px;
+  align-self: flex-start;
+  margin: 10px;
+}
